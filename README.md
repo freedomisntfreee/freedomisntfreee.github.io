@@ -1,0 +1,2 @@
+not serious
+'art project'
